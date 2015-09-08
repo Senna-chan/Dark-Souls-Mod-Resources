@@ -1,0 +1,9 @@
+Class		VIT END STR GRC WIL RSV WTH SRN HAR  Total
+Knight  	12  9   10  8   9   9   6   9   9    81
+Warrior  	7   13  13  13  7   7   7   7   7    81
+Wanderer 	6   15  7   16  11  8   8   5   5    81
+Pyromancer 	8   12  9   5   16  6   9   8   8    81
+Paladin  	9   9   10  7   9   15  4   9   9    81
+Warlock  	8   12  7   7   10  8   16  7   6    81
+Tidehunter 	9   9   9   12  5   7   7   16  7    81
+Druid  		8   10  8   10  8   8   5   8   16   81
