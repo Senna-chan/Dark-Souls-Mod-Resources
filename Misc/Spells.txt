@@ -112,6 +112,6 @@ Ethereal step - invisibility for 5 seconds, speed 3 for 5 seconds.
 
 {expert}
 
-Transcend spirit - experience orbs heal.
+Transcend spirit - experience orbs heal.		PlayerPickupXpEvent
 Storm
 
