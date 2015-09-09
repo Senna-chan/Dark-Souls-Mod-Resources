@@ -63,7 +63,9 @@ Base AR: 60,-,40,-,-,40
 Base Scaling: E,A,-,C,-,-,B
 Upgrade level: 5
 Descr: A rapier formed from a hardened rose,
+
 [Great Swords]
+
 Flameberge
 Base AR: 130,180,-,-,-,-
 Base Scaling: D,B,C,-,-,-,-
@@ -133,6 +135,11 @@ Base Scaling: B,-,-,B,-,-,-
 Upgrade level: 5
 Descr: 
 
+Slaghammer
+Base AR: 180,180,-,-,-,-
+Base Scaling: B,-,B,-,-,-,-
+Upgrade level: 10
+Descr:
 
 [Reapers]
 

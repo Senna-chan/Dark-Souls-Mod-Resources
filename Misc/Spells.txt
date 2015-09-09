@@ -89,14 +89,17 @@ Waste - Add speed 6 for 5 seconds, jump height 6 for 5 seconds. feather falling 
 {Advanced}
 Ruin - 
 Nosferatu -
-Vengeance - Add half of missing health to attack power.
+Vengeance - Add half of missing health to attack power, in percentage.
 {Expert}
 Goetia - 
 Mire - 
 Shadowgift - all attacks deal 50% of their power in taint damage in addition.
 
 Curse
-
+{basic}
+{advanced}
+{expert}
+wailing orb - place down an orb that causes weakness, slowness and blindness, to everything within 20 blocks
 Flower
 
 Ash
@@ -112,6 +115,6 @@ Ethereal step - invisibility for 5 seconds, speed 3 for 5 seconds.
 
 {expert}
 
-Transcend spirit - experience orbs heal.		PlayerPickupXpEvent
+Transcend spirit - experience orbs heal.
 Storm
 
