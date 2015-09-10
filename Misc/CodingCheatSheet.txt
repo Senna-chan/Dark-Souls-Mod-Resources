@@ -1,0 +1,12 @@
+Item can't be used until amound of ticks is over
+public int getMaxItemUseDuration(ItemStack items) {
+	return 15;
+}
+public ItemStack onEaten(ItemStack items, World world, EntityPlayer player) {
+// Code here after time is finished
+}
+@Override
+public ItemStack onItemRightClick(ItemStack items, World world, EntityPlayer player) {
+// Validation if player is allowed to use item here
+	player.setItemInUse(items, this.getMaxItemUseDuration(items));
+}
