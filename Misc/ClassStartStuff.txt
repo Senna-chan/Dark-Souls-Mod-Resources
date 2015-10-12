@@ -1,9 +1,9 @@
-Class		VIT END STR GRC WIL RSV WTH SRN HAR  Total
-Knight  	12  9   10  8   9   9   6   9   9    81
-Warrior  	7   13  13  13  7   7   7   7   7    81
-Wanderer 	6   15  7   16  11  8   8   5   5    81
-Pyromancer 	8   12  9   5   16  6   9   8   8    81
-Paladin  	9   9   10  7   9   15  4   9   9    81
-Warlock  	8   12  7   7   10  8   16  7   6    81
-Tidehunter 	9   9   9   12  5   7   7   16  7    81
-Druid  		8   10  8   10  8   8   5   8   16   81
+Class		VIT END STR GRC WIL RSV WTH SRN HAR  Total	Gear	Head			Chest			Leggings			boots 			H1		H2
+Knight  	12  9   10  8   9   9   6   9   9    81			Knight helmet		Knight Cuirass		Knight Legplates		Knight Greaves		Longsword	Dragoncrest Shield
+Warrior  	7   13  13  13  7   7   7   7   7    81			Iron skullcap		Studded leather garb	Studded leather leggings	Iron-cuffed boots	Old bone axe	Small wooden shield
+Wanderer 	6   15  7   16  11  8   8   5   5    81			Wanderer hood		Wanderer coat		Wanderer trousers		Wanderer Boots		Scimitar	Buckler
+Pyromancer 	8   12  9   5   16  6   9   8   8    81			scorched hood		scorched cloak		scorched kilt			scorched footwraps	club		fickle embers
+Paladin  	9   9   10  7   9   15  4   9   9    81			Saint's headdress	Saint's hauberk		Saint's skirt			Saint's sabatons	Mace		Saint's mark
+Warlock  	8   12  7   7   10  8   16  7   6    81			Cultist headdress	Cultist Robes		Cultist legwraps		cultist	boots		Carving knife	Devil fingers
+Tidehunter 	9   9   9   12  5   7   7   16  7    81			Scaled faceguard	Scaled tunic		Scaled legguards		scaled boots		Trident		Living droplets
+Druid  		8   10  8   10  8   8   5   8   16   81			
